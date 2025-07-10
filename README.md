@@ -1,1 +1,1 @@
-website kursus dengan menggunkaan html, css, bootstrap
+website kursus dengan mengimplementasikan html, css, bootstrap
